@@ -1,0 +1,15 @@
+# Environment variables — never push secrets to GitHub
+.env
+
+# SQLite database file
+*.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder
+venv/
+env/
+.venv/
